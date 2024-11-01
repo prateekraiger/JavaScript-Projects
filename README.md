@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-Below is a list of projects in this repository:
+Below is a list of projects in this repository-
 
 | **Project Name** | **Description** | **Last Updated** | **Link** |
 | --- | --- | --- | --- |
