@@ -14,6 +14,7 @@ A collection of JavaScript projects to showcase my skills and creativity.
 | Random Password Generator | A random password generator tool that creates strong and unique passwords | [Random Password Generator](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Random%20Password%20Generator) |
 | Simon Says Game | A classic Simon Says game implementation that tests your memory and reaction time | [Simon Says Game](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Simon_Says_Game) |
 | Tic Tac Toe | A classic Tic Tac Toe game implementation that demonstrates game logic and AI | [Tic Tac Toe](https://github.com/prateekraiger/JavaScript-Projects/tree/main/TIc%20Tac%20Toe) |
+| Flappy bird | A classic Flappy Bird gmae impplementation that demonstrates game logic and AI | [Flappy Bird](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Flappy%20Bird%20Game) |
 
 **Contribution Guidelines**
 
