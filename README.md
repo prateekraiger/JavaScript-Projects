@@ -7,7 +7,6 @@ A collection of JavaScript projects to showcase my skills and creativity.
 | **Project Name** | **Description** | **Link** |
 | --- | --- | --- |
 | Joke Generator | A joke generator app that brings a smile to your face | [Joke Generator](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Joke%20Generator) |
-| Light Bulb (on/off) | A simple light bulb simulator that demonstrates basic JavaScript concepts | [Light Bulb (on/off)](https://github.com/prateekraiger/prateekraiger/tree/main/Light%20Bulb(on/off)) |
 | Login Form | A basic login form implementation that demonstrates form validation and authentication | [Login Form](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Login%20Form) |
 | Love Calculator | A fun love calculator app that calculates the love percentage between two names | [Love Calculator](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Love%20Calculator) |
 | Notes Taking App | A simple notes taking app that demonstrates CRUD operations and local storage | [Notes Taking App](https://github.com/prateekraiger/JavaScript-Projects/tree/main/Notes%20Taking%20App) |
